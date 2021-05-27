@@ -1,0 +1,4 @@
+Pool/sha224_Source/sha224*.sprf*
+Pool/cat_Source/cat*.sprf*
+Pool/gzip_Source/gzip*.sprf*
+Pool/rm_Source/rm*.sprf*

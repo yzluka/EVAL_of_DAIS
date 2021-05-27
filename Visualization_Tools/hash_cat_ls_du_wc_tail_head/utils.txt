@@ -1,0 +1,7 @@
+hash
+cat
+ls
+du
+wc
+tail
+head

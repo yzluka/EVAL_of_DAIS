@@ -1,0 +1,9 @@
+Pool/sha256_Source/sha256*.sprf*
+Pool/sha224_Source/sha224*.sprf*
+Pool/md5_Source/md5*.sprf*
+Pool/cat_Source/cat*.sprf*
+Pool/tail_Source/tail*.sprf*
+Pool/head_Source/head*.sprf*
+Pool/gzip_Source/gzip*.sprf*
+Pool/gunzip_Source/gunzip*.sprf*
+Pool/rm_Source/rm*.sprf*

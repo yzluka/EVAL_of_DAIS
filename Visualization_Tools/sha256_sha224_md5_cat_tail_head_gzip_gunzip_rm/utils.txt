@@ -1,0 +1,9 @@
+sha256
+sha224
+md5
+cat
+tail
+head
+gzip
+gunzip
+rm
